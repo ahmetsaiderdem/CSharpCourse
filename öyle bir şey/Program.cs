@@ -10,7 +10,7 @@ namespace öyle_bir_şey
     {
         static void Main(string[] args)
         {
-
+            //TODO ahmet test
             decimal number5 = 10;
             double number4 = 10.4;
             char character = 'A';
