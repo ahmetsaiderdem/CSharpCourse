@@ -26,7 +26,7 @@ namespace AccesModifiers
         public void Save()
         {
             Customer customer = new Customer();
-            customer.
+            //customer.
         }
     }
     public class Course
